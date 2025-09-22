@@ -1,0 +1,12 @@
+pytorch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+diffusers==0.31.0
+accelerate
+matplotlib==3.6.2
+jaxtyping==0.2.29
+einops
+opencv-python==4.9.0.80
+scikit-learn
+peft
+transformers[sentencepiece]
