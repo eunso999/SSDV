@@ -1,6 +1,6 @@
 # **Translation of Text Embedding via Delta Vector to Suppress Strongly-Entangled Content in Text-to-Image Diffusion Models**
 
-[![arXiv](https://img.shields.io/badge/arXiv-SuppressEOT-<COLOR>.svg)](https://arxiv.org/abs/2508.10407) [![arXiv](https://img.shields.io/badge/paper-SuppressEOT-b31b1b.svg)](https://arxiv.org/pdf/2508.10407.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-SSDV-<COLOR>.svg)](https://arxiv.org/abs/2508.10407) [![arXiv](https://img.shields.io/badge/paper-SSDV-b31b1b.svg)](https://arxiv.org/pdf/2508.10407.pdf)
 
 This is the official implementation for the paper “[ICCV 2025] Translation of Text Embedding via Delta Vector to Suppress Strongly-Entangled Content in Text-to-Image Diffusion Models”.
 
